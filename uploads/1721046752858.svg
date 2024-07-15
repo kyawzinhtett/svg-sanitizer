@@ -1,0 +1,7 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <foreignObject width="500" height="500">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:confirm('Security Testing by Wave');" width="400" height="250"></iframe>
+    </body>
+  </foreignObject>
+</svg>
